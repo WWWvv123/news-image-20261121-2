@@ -1,0 +1,1 @@
+{"description":"Magazine-style cover poster for 21 November 2026 world news","license":"MIT","name":"news-image-20261121-2","scripts":{"build-image":"python3 tools/make_image.py","start":"node main.ts"},"type":"module","version":"1.0.0"}
